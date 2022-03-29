@@ -9,7 +9,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>IMGRipper</RootNamespace>
     <AssemblyName>IMGRipper</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
   </PropertyGroup>
   <!-- Global configuration settings -->

@@ -10,7 +10,7 @@
     <OutputType>WinExe</OutputType>
     <AssemblyName>Antilli</AssemblyName>
     <RootNamespace>Antilli</RootNamespace>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <ApplicationIcon>Resources\Icons\Antilli.ico</ApplicationIcon>
     <!-- C# 6.0 -->

@@ -9,7 +9,7 @@
     <OutputType>Exe</OutputType>
     <AssemblyName>GMC2Snooper</AssemblyName>
     <RootNamespace>GMC2Snooper</RootNamespace>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
   </PropertyGroup>
   <!-- Global configuration settings -->

@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>DSCript</RootNamespace>
     <AssemblyName>libDSC</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <!-- C# 6.0 -->
     <LangVersion>6</LangVersion>
